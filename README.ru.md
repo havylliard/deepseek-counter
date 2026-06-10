@@ -1,7 +1,7 @@
 # 🔢 DeepSeek Counter — Современный счётчик токенов с градиентным интерфейсом
 
 <p align="center">
-  <img src="icons/deepseek.png" alt="Логотип DeepSeek" width="200">
+  <img src="icons/deepseek.png" alt="Логотип DeepSeek" width="400">
 </p>
 
 **DeepSeek Counter** — это расширение для браузера, которое добавляет в интерфейс DeepSeek (`chat.deepseek.com`) счётчик токенов в реальном времени, таймер кэша и красивую градиентную шкалу (зелёный → красный). Разработано с нуля для чистого и приятного визуального опыта.

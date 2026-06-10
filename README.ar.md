@@ -1,7 +1,7 @@
 # 🔢 DeepSeek Counter — عداد الرموز الحديث بواجهة تدرج لوني
 
 <p align="center">
-  <img src="icons/deepseek.png" alt="شعار DeepSeek" width="200">
+  <img src="icons/deepseek.png" alt="شعار DeepSeek" width="400">
 </p>
 
 **DeepSeek Counter** هي إضافة للمتصفح تضيف عداد رموز في الوقت الفعلي، ومؤقت تخزين مؤقت، وشريط تدرج لوني جميل (أخضر ← أحمر) مباشرة إلى واجهة DeepSeek (`chat.deepseek.com`). تم تطويرها من الصفر لتوفير تجربة نظيفة وجذابة بصرياً.

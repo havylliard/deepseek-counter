@@ -1,7 +1,7 @@
 # 🔢 DeepSeek Counter — モダンなトークンカウンター（グラデーションUI付き）
 
 <p align="center">
-  <img src="icons/deepseek.png" alt="DeepSeek ロゴ" width="200">
+  <img src="icons/deepseek.png" alt="DeepSeek ロゴ" width="400">
 </p>
 
 **DeepSeek Counter** は、DeepSeek のインターフェース (`chat.deepseek.com`) にリアルタイムのトークンカウンター、キャッシュタイマー、美しいグラデーションバー（緑 → 赤）を追加するブラウザ拡張機能です。クリーンで視覚的に魅力的な体験を提供するために、ゼロから開発されました。

@@ -1,7 +1,7 @@
 # 🔢 DeepSeek 计数器 —— 现代化令牌计数器与渐变界面
 
 <p align="center">
-  <img src="icons/deepseek.png" alt="DeepSeek 标志" width="200">
+  <img src="icons/deepseek.png" alt="DeepSeek 标志" width="400">
 </p>
 
 **DeepSeek 计数器** 是一款浏览器扩展，可为 DeepSeek 界面 (`chat.deepseek.com`) 添加实时令牌计数、缓存计时器和美观的渐变条（绿 → 红）。完全从零开始构建，提供干净且视觉愉悦的体验。

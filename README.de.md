@@ -1,7 +1,7 @@
 # 🔢 DeepSeek Counter — Moderner Token-Zähler mit Farbverlaufs-UI
 
 <p align="center">
-  <img src="icons/deepseek.png" alt="DeepSeek Logo" width="200">
+  <img src="icons/deepseek.png" alt="DeepSeek Logo" width="400">
 </p>
 
 **DeepSeek Counter** ist eine Browsererweiterung, die einen Echtzeit-Token-Zähler, Cache-Timer und eine schöne Verlaufsleiste (grün → rot) direkt in die DeepSeek-Oberfläche (`chat.deepseek.com`) einfügt. Von Grund auf neu entwickelt, um ein sauberes und optisch ansprechendes Erlebnis zu bieten.

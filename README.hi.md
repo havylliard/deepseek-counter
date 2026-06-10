@@ -1,7 +1,7 @@
 # 🔢 DeepSeek काउंटर — आधुनिक टोकन काउंटर ग्रेडिएंट यूआई के साथ
 
 <p align="center">
-  <img src="icons/deepseek.png" alt="DeepSeek लोगो" width="200">
+  <img src="icons/deepseek.png" alt="DeepSeek लोगो" width="400">
 </p>
 
 **DeepSeek काउंटर** एक ब्राउज़र एक्सटेंशन है जो DeepSeek इंटरफ़ेस (`chat.deepseek.com`) पर रीयल-टाइम टोकन काउंटर, कैश टाइमर और एक सुंदर ग्रेडिएंट बार (हरा → लाल) जोड़ता है। इसे शुरू से एक साफ और नेत्रहीन आकर्षक अनुभव प्रदान करने के लिए बनाया गया है।

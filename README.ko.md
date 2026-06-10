@@ -1,7 +1,7 @@
 # 🔢 DeepSeek Counter — 현대적인 토큰 카운터 (그라데이션 UI)
 
 <p align="center">
-  <img src="icons/deepseek.png" alt="DeepSeek 로고" width="200">
+  <img src="icons/deepseek.png" alt="DeepSeek 로고" width="400">
 </p>
 
 **DeepSeek Counter** 는 DeepSeek 인터페이스(`chat.deepseek.com`)에 실시간 토큰 카운터, 캐시 타이머 및 아름다운 그라데이션 바(초록 → 빨강)를 추가하는 브라우저 확장 프로그램입니다. 깔끔하고 시각적으로 매력적인 경험을 제공하기 위해 처음부터 개발되었습니다.
