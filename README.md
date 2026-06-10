@@ -1,7 +1,7 @@
 # 🔢 DeepSeek Counter — Modern Token Counter with Gradient UI
 
 <p align="center">
-  <img src="icons/deepseek.png" alt="DeepSeek Logo" width="200">
+  <img src="icons/deepseek.png" alt="DeepSeek Logo" width="400">
 </p>
 
 **DeepSeek Counter** is a browser extension that adds a real‑time token counter, cache timer, and a beautiful gradient bar (green → red) directly to the DeepSeek interface (`chat.deepseek.com`). Built from scratch to provide a clean and visually appealing experience.
