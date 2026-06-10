@@ -1,7 +1,7 @@
 # 🔢 DeepSeek Counter — Contador de Tokens com Interface Moderna
 
 <p align="center">
-  <img src="icons/deepseek.png" alt="Logo DeepSeek" width="200">
+  <img src="icons/deepseek.png" alt="Logo DeepSeek" width="400">
 </p>
 
 **DeepSeek Counter** é uma extensão para navegador que adiciona um contador de tokens em tempo real, timer de cache e uma bela barra com gradiente (verde → vermelho) diretamente na interface do DeepSeek (`chat.deepseek.com`). Desenvolvida do zero para oferecer uma experiência limpa e visualmente agradável.
