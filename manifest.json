@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "name": "DeepSeek Counter",
+  "version": "1.0.0",
+  "description": "Real‑time token counter with gradient bar and cache timer for DeepSeek. Go to options to change language.",
+  "permissions": ["storage"],
+  "host_permissions": ["https://chat.deepseek.com/*"],
+  "options_ui": {
+    "page": "options.html",
+    "open_in_tab": false
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://chat.deepseek.com/*"],
+      "js": ["o200k_base.js", "ui.js", "content.js"],
+      "run_at": "document_start",
+      "all_frames": true
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["bridge.js"],
+      "matches": ["https://chat.deepseek.com/*"]
+    }
+  ],
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
